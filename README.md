@@ -1,8 +1,4 @@
-## Olá! Eu sou Luana Albertoni👋
-
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando React e Typescript
-- 😄 Pronouns: she/her
+## Hi there! I'm Luana Albertoni👋
 
 <div align="center">
   <a href="https://github.com/LuanaAlbertoni">
